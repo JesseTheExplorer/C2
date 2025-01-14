@@ -1,7 +1,0 @@
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\bin\Debug\Ovi.exe.config
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\bin\Debug\Ovi.exe
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\bin\Debug\Ovi.pdb
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\obj\Debug\Ovi.csproj.AssemblyReference.cache
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\obj\Debug\Ovi.csproj.CoreCompileInputs.cache
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\obj\Debug\Ovi.exe
-C:\Tiedostot\Opinnot\C# 2\Ovi\Ovi\obj\Debug\Ovi.pdb
